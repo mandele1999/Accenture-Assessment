@@ -29,12 +29,17 @@ Analysis to find Social Buzz’s top 5 most popular categories of content
 * The most frequent user reactions are Scared,  Peeking, Hate, Cherish whereas Indifferent, Like and interested were the least frequent reactions.
 * May 2021 experienced most posts closely followed by Jan ‘21, and Aug ‘20.
 * The months of June in both ‘20 and ‘21 recorded significantly lower posts.
+
 *Implications*:
+
 Insights can refine Social Buzz’s content strategy to boost user engagement.
 Reaction patterns can guide marketing and content placement decisions.
+
 *Recommendations*:
 Focus on expanding content in the top-performing categories to boost engagement further.
 Use reaction data to personalize user experiences and drive higher engagement rates.
+
 *Future Work*:
+
 Further analysis could explore the impact of specific content types on user reactions.
 Investigate how external factors (e.g., seasonality, trends) influence content performance.
